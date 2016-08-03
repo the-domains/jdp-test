@@ -1,0 +1,14 @@
+layout_spectrum: 0.3476757691241801
+typography_spectrum: 0.5582654173485935
+color:
+  brandStrength: 0.4884137511253357
+  lightness: 0.06544570089317858
+  saturation: 0.10676026553846896
+  rhythmicContrast: 0.729314734460786
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: JDP Test
